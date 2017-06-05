@@ -6,4 +6,8 @@
     <string name="first">First</string>
     <string name="second">Second</string>
     <string name="third">Third</string>
+    <string name="section_one">Section One</string>
+    <string name="section_two">Section two</string>
+    <string name="id">Id</string>
+    <string name="name">name</string>
 </resources>

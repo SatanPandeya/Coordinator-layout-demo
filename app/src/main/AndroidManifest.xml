@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".TestActivity" />
+        <activity android:name=".recycler.RecyclerViewActivity" />
     </application>
 
 </manifest>
